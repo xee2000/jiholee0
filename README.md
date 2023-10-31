@@ -24,8 +24,6 @@
     <a href="[https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741](https://tiny-llama-758.notion.site/1ea3707c061c41cc9ae91034bdeeec98)">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
 </div><br>
 
  
